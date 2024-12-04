@@ -36,7 +36,7 @@ The dataset used in this analysis is the **Northwind Traders dataset**, a classi
 - Ensured the model supports dynamic and interactive analysis.
 
 ### Designing the Dashboard
-- **KPIs**: Highlight key metrics like **Gross Revenue**, **Total Customers**, and **Orders**.
+- **KPIs**: Highlight key metrics like **Gross Revenue**, **Total Customers**, and **Orders** and more.
 - **Visualizations**:
   - Line charts to show revenue trends.
   - Bar charts for top customers and employee performance.
