@@ -7,7 +7,7 @@ The final dashboard is designed to provide stakeholders with an intuitive, user-
 
 ## How to View the Dashboard
 - **Interactive Dashboard**: [Northwind Dashboard (Power BI)](https://app.powerbi.com/view?r=eyJrIjoiMGQ0NDhmMDItNTlhYy00OTU4LTgwNTctYWIzN2U3OWJkZDQ1IiwidCI6ImI4NjBiZTJmLTI1ZGMtNDc0ZC1iNzJiLTIxZmQ4YzA0NGRiMCJ9&pageName=e4d3beb05de0653c01a7)
-- **Static PDF Version**: [Northwind_Dashboard.pdf]()
+- **Static PDF Version**: [Northwind_Dashboard.pdf](https://github.com/A-shiket/Northwind-Analysis-Power-BI/blob/main/NORTHWIND%20Dashboard.pdf)
 
 ## Dependencies
 This project uses:
