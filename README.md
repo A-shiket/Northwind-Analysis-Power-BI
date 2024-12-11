@@ -5,8 +5,9 @@ This project analyzes the Northwind dataset, a fictional database that includes 
 
 The final dashboard is designed to provide stakeholders with an intuitive, user-friendly tool for exploring key business metrics and making data-driven decisions.
 
-## Project Files
-- **Northwind_Interactive_Dashboard.pbix**: The Power BI project file containing the interactive dashboard and all data transformations.
+## How to View the Dashboard
+- **Interactive Dashboard**: [Northwind Dashboard (Power BI)](https://app.powerbi.com/view?r=eyJrIjoiMGQ0NDhmMDItNTlhYy00OTU4LTgwNTctYWIzN2U3OWJkZDQ1IiwidCI6ImI4NjBiZTJmLTI1ZGMtNDc0ZC1iNzJiLTIxZmQ4YzA0NGRiMCJ9&pageName=e4d3beb05de0653c01a7)
+- **Static PDF Version**: [Northwind_Dashboard.pdf]()
 
 ## Dependencies
 This project uses:
